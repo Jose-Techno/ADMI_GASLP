@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="ESQUEMA CONCEPTUAL" id="4hcKJF751DZ4UA6Xd3EJ">
-    <mxGraphModel dx="1892" dy="1288" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="1113" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-11" target="rvwDEG-B_3v3ex2wwowo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-11" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-11" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="784" y="500.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rvwDEG-B_3v3ex2wwowo-13" target="arxQsMElPa3r9l4-82Xm-18">
@@ -172,7 +172,7 @@
             <mxPoint x="821" y="758" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-18" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-18" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="977" y="617" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-20" target="arxQsMElPa3r9l4-82Xm-36">
@@ -220,19 +220,19 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-23" target="arxQsMElPa3r9l4-82Xm-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-23" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-23" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1227" y="881" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-24" target="arxQsMElPa3r9l4-82Xm-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-24" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-24" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="788" y="881" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-25" target="arxQsMElPa3r9l4-82Xm-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-25" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-25" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="316" y="881" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-32" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;FACTOR&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;perimeterSpacing=0;strokeWidth=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
@@ -250,7 +250,7 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-36" target="rvwDEG-B_3v3ex2wwowo-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-36" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-36" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="520" y="1232" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-39" target="arxQsMElPa3r9l4-82Xm-75">
@@ -289,13 +289,13 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-42" target="arxQsMElPa3r9l4-82Xm-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-42" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-42" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="747" y="1294" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-47" target="rvwDEG-B_3v3ex2wwowo-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-47" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-47" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1042" y="1563" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-50" target="arxQsMElPa3r9l4-82Xm-52">
@@ -327,7 +327,7 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-55" target="arxQsMElPa3r9l4-82Xm-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-55" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-55" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1351" y="1125" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-58" target="arxQsMElPa3r9l4-82Xm-64">
@@ -348,7 +348,7 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-59" target="arxQsMElPa3r9l4-82Xm-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-59" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-59" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1227" y="1217" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-63" value="&lt;u&gt;ID FACTURA&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
@@ -447,7 +447,7 @@
         <mxCell id="arxQsMElPa3r9l4-82Xm-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arxQsMElPa3r9l4-82Xm-137" target="arxQsMElPa3r9l4-82Xm-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arxQsMElPa3r9l4-82Xm-137" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arxQsMElPa3r9l4-82Xm-137" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;TIENE&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="573" y="1705" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-142" value="&lt;h3&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Lucida Console&quot;&gt;1:N&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -455,6 +455,12 @@
         </mxCell>
         <mxCell id="arxQsMElPa3r9l4-82Xm-143" value="&lt;h3&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Lucida Console&quot;&gt;1:N&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1127" y="1588" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arxQsMElPa3r9l4-82Xm-147" value="&lt;h3&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Lucida Console&quot;&gt;1:N&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1304" y="1242" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arxQsMElPa3r9l4-82Xm-148" value="&lt;h3&gt;&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Lucida Console&quot;&gt;1:N&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1438" y="1151" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
